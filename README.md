@@ -12,3 +12,6 @@
 - 📫 How to reach me **aisekaisededuapnaemail@gmail.com**
 
 ## 🚀 Languages and Tools:
+
+<a href="#"><img width="5%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="60px"/></a>
+<h4>abhi itna hi hai <img src="https://cdn3.emoji.gg/emojis/8950-smoking.png" width="30px">.</h4>
